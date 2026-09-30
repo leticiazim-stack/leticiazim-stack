@@ -1,11 +1,11 @@
 # Olá, eu sou a Letícia 👋
 
- Estou iniciando em **Ciência de Dados** e aprendendo o que se pode fazer com tecnologia.
-Tenho formação em **Direito** e **Administração Pública**, e quero usar dados para entender melhor a gestão pública, a área fiscal e o controle.
+Estou iniciando os estudos em **Ciência de Dados** e aprendendo o que se pode fazer com tecnologia.
+Tenho formação em **Direito** e **Administração Pública**, e quero usar dados para entender melhor a gestão pública, a área fiscal e controle.
 
 ## O que estou estudando
-- Iniciando a jornada do curso em Ciência de Dados
-- Fundamentos de Ciência de Dados
+- Iniciando a jornada do curso em Ciência de Dados;
+- Fundamentos de Ciência de Dados.
 
 
 ## Projetos
